@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SUBHASH
 - 👀 I’m interested in web development
 - 🌱 I’m a Software Developer
-- 📫 How to reach me -subham.joshi.7@gmaul.com
+- 📫 How to reach me : subham.joshi.7@gmail.com
 
 <!---
 subhash122/subhash122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
