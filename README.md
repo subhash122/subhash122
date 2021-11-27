@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SUBHASH
-- 👀 I’m interested in web development
 - 🌱 I’m a Software Developer
+- 👀 I’m interested in web development
 - 📫 How to reach me : subham.joshi.7@gmail.com
 
 <!---
